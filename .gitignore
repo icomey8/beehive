@@ -1,0 +1,25 @@
+# Project notes, kept local
+NOTES.md
+DESIGN.md
+PLAN.md
+README.md
+
+# Dependencies and build output
+node_modules/
+dist/
+.output/
+.vinxi/
+.tanstack/
+
+# Local board data from `vb serve`
+.board/
+
+# Environment and Vercel
+.env
+.env.*
+!.env.example
+.vercel/
+
+# Editor and OS
+.claude/settings.local.json
+.DS_Store
